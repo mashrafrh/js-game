@@ -1,2 +1,2 @@
 # js-game
-Simple html/js game
+Simple html/css/js game
